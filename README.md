@@ -52,7 +52,8 @@ PrometheusAI/
 ### 1. Cloner le dépôt
 
 git clone https://github.com/AVHIRAL/Prometheus-IA_Chatbot.git
-cd Prometheus-IA-Chat-NO-AVX-ALL-SYSTEMS
+
+cd Prometheus-IA_Chatbot
 
 ### 2. Créer un environnement virtuel
 
