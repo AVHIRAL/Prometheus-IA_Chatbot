@@ -6,7 +6,7 @@ Assistant IA local avec interface graphique, conçu pour charger des modèles GG
 
 ## Aperçu
 
-Prometheus AI est une application légère pensée pour exécuter un chatbot local avec des modèles GGUF. L'interface reprend une logique de discussion simple, avec chargement de modèle, historique de conversations, réponses en streaming et outils pratiques. Le programme fonctionne sur tous systèmes, il n'ai pas nécessaire de disposer AVX ou AVX2.
+Prometheus AI est une application légère pensée pour exécuter un chatbot local avec des modèles GGUF. L'interface reprend une logique de discussion simple, avec chargement de modèle, historique de conversations, réponses en streaming et outils pratiques. Le programme fonctionne sur tous systèmes, il n'ai pas nécessaire de disposer de AVX ou AVX2.
 
 ## Fonctionnalités
 
